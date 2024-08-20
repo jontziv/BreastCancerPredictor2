@@ -15,3 +15,4 @@ pip install -r requirements.txt
 ```
 
 This will install all the necessary dependencies, including Streamlit, OpenCV, and scikit-image.
+https://huggingface.co/spaces/jontziv/BreastCancerPred
